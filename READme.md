@@ -1,5 +1,6 @@
 ### Build everything
-make all
+``make all``
 
 ### Clean all the files except of the sources
-make clean
+``make clean``
+
